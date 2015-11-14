@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tulip/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sony/tulip/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/tulip/proprietary/bin/rfs_access:system/bin/rfs_access \
-    vendor/sony/tulip/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/tulip/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/sony/tulip/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/sony/tulip/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
@@ -93,10 +92,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tulip/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/sony/tulip/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/sony/tulip/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
-    vendor/sony/tulip/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/sony/tulip/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/sony/tulip/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
-    vendor/sony/tulip/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/sony/tulip/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/sony/tulip/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/sony/tulip/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -105,7 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tulip/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/sony/tulip/proprietary/lib64/hw/sensors.default.so:system/lib64/hw/sensors.default.so \
     vendor/sony/tulip/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
-    vendor/sony/tulip/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/sony/tulip/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/sony/tulip/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/sony/tulip/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
